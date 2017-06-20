@@ -7,13 +7,13 @@ Notes & Credits:
 
     - Instructor: [_Kirill Eremenko_](https://www.udemy.com/user/kirilleremenko) (Data Science & Forex Systems Expert).
 
-    - **Hightlights:** Advanced Interactive Dashboards, Story Telling Dashboards
+    - **Hightlights:** _Advanced Interactive Dashboards_, _Story Telling Dashboards_
 
     - Data: [_Datasets_](https://www.superdatascience.com/tableau)
 
     - Outline:
 
-      -- Tableau Basics: Tableau Basics: Your First Bar
+      -- Tableau Basics: Your First Bar Chart
 
       -- Time series, Aggregation, and Filters
 
