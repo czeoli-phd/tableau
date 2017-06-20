@@ -7,17 +7,24 @@ Notes & Credits:
 
     - Instructor: [_Kirill Eremenko_](https://www.udemy.com/user/kirilleremenko) (Data Science & Forex Systems Expert).
 
-    - Hightlights: Advanced Interactive Dashboards, Story Telling Dashboards
+    - **Hightlights:** Advanced Interactive Dashboards, Story Telling Dashboards
 
     - Data: [_Datasets_](https://www.superdatascience.com/tableau)
 
     - Outline:
-      -- Tableau Basics: Tableau Basics: Your First Bar chart
+
+      -- Tableau Basics: Tableau Basics: Your First Bar
+
       -- Time series, Aggregation, and Filters
+
       -- Maps, Scatterplots, and Your First Dashboard
+
       -- Joining and Blending Data, PLUS: Dual Axis Charts
+
       -- Table Calculations, Advanced Dashboards, Storytelling
+
       -- Advanced Data Preparation
+
       -- What's new in Tableau 10
 
   * Udemy is an [_online learning platform_](https://en.wikipedia.org/wiki/Udemy) used by professionals to level-up skillsets for their resumes.
