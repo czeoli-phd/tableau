@@ -7,7 +7,7 @@ Notes & Credits:
 
     - Instructor: [_Kirill Eremenko_](https://www.udemy.com/user/kirilleremenko) (Data Science & Forex Systems Expert).
 
-    - **Hightlights:** _Advanced Interactive Dashboards_, _Story Telling Dashboards_
+    - **Hightlights:** __*Advanced Interactive Dashboards*__, __*Story Telling Dashboards*__
 
     - Data: [_Datasets_](https://www.superdatascience.com/tableau)
 
