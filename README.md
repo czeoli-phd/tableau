@@ -1,5 +1,8 @@
 # Welcome to my Tableau repo!
 ## Contents: Data science project exercises using Tableau 10.
+
+Link to project exercises outlined below: [ My Tableau Public Account ](https://public.tableau.com/profile/czeoli.phd#!) 
+
 Notes & Credits:
   * The current project exercises are based on online coursework from [Udemy, Inc.](https://www.udemy.com)
 
